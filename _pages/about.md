@@ -5,11 +5,11 @@ permalink: /
 
 profile:
   align: right
-  image: SP_pic_nobackground.png
+  image: SP_pic.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Sergio works as pre-doctoral research fellow at Universidad del Rosario. He holds a M.Sc. and B.Sc. in Economics from Universidad del Rosario.
