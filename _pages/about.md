@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: SP_pic.jpg
+  image: SP_pic_nobackground.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
