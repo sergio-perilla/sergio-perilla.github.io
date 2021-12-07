@@ -15,7 +15,8 @@ nav: true
 [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3751514) 
 
 **Internet Access and Electoral Participation in Colombia: Voter Apathy at the Polls.**  
-[[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759775) Featured in: [VoxLacea](http://vox.lacea.org/?q=blog/internet_participacion_electoral)
+[[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759775)  
+Featured in: [VoxLacea](http://vox.lacea.org/?q=blog/internet_participacion_electoral)
 
 ## Book Chapters
 
