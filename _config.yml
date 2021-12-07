@@ -31,7 +31,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: false
+footer_fixed: true
 
 # Dimensions
 max_width: 800px
@@ -66,7 +66,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: false
+rss_icon: true
 
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
