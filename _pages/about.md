@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Sergio works as pre-doctoral research fellow at Universidad del Rosario. He holds a M.Sc. and B.Sc. in Economics from Universidad del Rosario.
+Sergio works as pre-doctoral research fellow at Universidad del Rosario. Previously, he worked at the Inter-American Development Bank and Motu - Economic and Public Policy Research in New Zealand. He holds a M.Sc. and B.Sc. in Economics from Universidad del Rosario in Colombia.
 
 His research interest are in Political Economy and Development Economics. It aims to study how social norms, media and conflicts affect citizens economic and political behavior. 
 
