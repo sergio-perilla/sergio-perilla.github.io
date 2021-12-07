@@ -16,6 +16,4 @@ Sergio works as pre-doctoral research fellow at Universidad del Rosario. Previou
 
 His research interest are in Political Economy and Development Economics. It aims to study how social norms, media and conflicts affect citizens economic and political behavior. 
 
-Here you can find his [CV](https://sergio-perilla.github.io/assets/pdf/CV_SergioPerilla.pdf). 
-
-<i class="fab fa-github"></i> Holi
+Here you can find his [CV](https://sergio-perilla.github.io/assets/pdf/CV_SergioPerilla.pdf).
