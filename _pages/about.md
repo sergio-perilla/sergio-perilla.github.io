@@ -18,6 +18,6 @@ His research interest are in Political Economy and Development Economics. It aim
 
 Here you can find his [CV](https://sergio-perilla.github.io/assets/pdf/CV_SergioPerilla.pdf).
 
-Email: sergio.perilla28[at]gmail[dot]com \s\s
-[Google Scholar](https://scholar.google.com/citations?user=HFGZ2yUAAAAJ&hl=es&authuser=1) \s\s
+Email: sergio.perilla28[at]gmail[dot]com  
+[Google Scholar](https://scholar.google.com/citations?user=HFGZ2yUAAAAJ&hl=es&authuser=1)  
 Twitter: [@sergioperillab](https://twitter.com/sergioperillab)
