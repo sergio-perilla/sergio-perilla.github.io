@@ -20,6 +20,6 @@ Featured in: [VoxLacea](http://vox.lacea.org/?q=blog/internet_participacion_elec
 
 ## Book Chapters
 
-**Trust, Citizenship, and Public Policy,** joint with [Razvan Vlaicu](https://scholar.google.com/citations?user=IJ3nzXUAAAAJ&hl=en&authuser=1).
+**Trust, Citizenship, and Public Policy,** joint with [Razvan Vlaicu](https://scholar.google.com/citations?user=IJ3nzXUAAAAJ&hl=en&authuser=1).  
 [[PDF]](https://ideas.repec.org/h/idb/idbchp/11778-c4.html)   
 In: _Trust: The Key to Social Cohesion and Growth in Latin America and the Caribbean_ Eds Philip Keefer and Carlos Scartascini, 2022.
