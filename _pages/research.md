@@ -8,7 +8,7 @@ nav: true
 
 ## Working Papers
 
-**Do explosions shape voting behavior?,** joint with [Juan F. Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0), [Miguel E. Purroy](https://mglpurroy.github.io/), Felipe Coy, and [Mounu Prem](https://sites.google.com/site/fcomunozma/home?authuser=0).
+**Do explosions shape voting behavior?,** joint with [Juan F. Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0), [Miguel E. Purroy](https://mglpurroy.github.io/), Felipe Coy, and [Mounu Prem](https://sites.google.com/site/fcomunozma/home?authuser=0).  
 [[PDF]](https://osf.io/preprints/socarxiv/dw9vn/)
 
 **How Peace Saves Lives? Evidence from Colombia,** joint with [Mounu Prem](https://sites.google.com/site/fcomunozma/home?authuser=0), [Miguel E. Purroy](https://mglpurroy.github.io/), and [Juan F. Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0).  
