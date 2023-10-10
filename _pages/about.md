@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Sergio works as research fellow at the World Bank. Previously, he worked at the Inter-American Development Bank, Motu - Economic and Public Policy Research in New Zealand, and Universidad del Rosario. He holds a M.Sc. and B.Sc. in Economics from Universidad del Rosario in Colombia.
+Sergio is a PhD student at the University of British Columbia. Previously, he worked at the World Bank, Inter-American Development Bank, Motu - Economic and Public Policy Research in New Zealand, and Universidad del Rosario. He holds a M.Sc. and B.Sc. in Economics from Universidad del Rosario in Colombia.
 
 His research interest are in Political Economy and Development Economics. It aims to study how social norms, media and conflicts affect citizens economic and political behavior. 
 
