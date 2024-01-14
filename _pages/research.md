@@ -8,7 +8,7 @@ nav: true
 
 ## Publications
 **How Peace Saves Lives? Evidence from Colombia,** joint with [Mounu Prem](https://sites.google.com/site/fcomunozma/home?authuser=0), [Miguel E. Purroy](https://sites.google.com/view/mglpurroy), and [Juan F. Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0).  
-_World Development_, 2024, 176, 106529. 
+_World Development_, 2024, 176, 106529 
 [[PDF]](https://authors.elsevier.com/a/1iQOM,6yxDOfTN)
 
 ## Working Papers
