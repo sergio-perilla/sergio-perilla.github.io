@@ -13,7 +13,7 @@ selected_papers: false
 social: false
 ---
 
-Sergio Perilla es estudiante de doctorado en la Universidad de British Columbia. Me interesa estudiar cómo las normas sociales, la cultura y las instituciones nos ayudan a entender los problemas políticos y medio ambientales.
+Soy estudiante de doctorado en la Universidad de British Columbia. Me interesa estudiar cómo las normas sociales, la cultura y las instituciones nos ayudan a entender los problemas políticos y medio ambientales.
 
 Aquí puedes encontrar mi [Hoja de Vida](https://sergio-perilla.github.io/assets/pdf/CV_SergioPerilla.pdf).
 
