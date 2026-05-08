@@ -23,10 +23,10 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- About -->
-          <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
+          <li class="nav-item {% if page.title == 'about' or page.title == 'Sobre mí' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
-              About
-              {% if page.title == "about" %}
+              {% if page.lang == 'es' %}Inicio{% else %}About{% endif %}
+              {% if page.title == "about" or page.title == "Sobre mí" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
@@ -76,6 +76,16 @@
           {% endif %}
           {% endif %}
           {% endfor %}
+          <!-- Language toggle -->
+          {% if page.lang == 'es' %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/' | relative_url }}">English</a>
+          </li>
+          {% else %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/es/' | relative_url }}">Español</a>
+          </li>
+          {% endif %}
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
