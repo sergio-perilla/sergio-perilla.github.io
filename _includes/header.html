@@ -43,9 +43,14 @@
           </li>
           {% endif %}
           <!-- Other pages -->
+          {% if page.lang == 'es' %}
+          <li class="nav-item {% if page.title == 'Investigación' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/es/research/' | relative_url }}">Investigación</a>
+          </li>
+          {% endif %}
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
-          {% if p.nav and p.autogen == nil %}
+          {% if p.nav and p.autogen == nil and p.lang != 'es' %}
           {% if p.dropdown %}
           <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

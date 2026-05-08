@@ -3,7 +3,7 @@ layout: page
 permalink: /es/research/
 title: Investigación
 description:
-nav: true
+nav: false
 lang: es
 ---
 
