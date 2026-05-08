@@ -5,7 +5,7 @@ permalink: /es/
 lang: es
 
 profile:
-  align: right
+  align: left
   image: SP_pic_website_cropped.jpg
 
 news: false
